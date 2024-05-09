@@ -16,13 +16,15 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("terra-scaled.jpg");
-    background-position: top right;
+    background-image: url("b4592635d6855ea30e1d652b846fb3df.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 .caixa-maior{
-    background: #000000;
-    opacity: 0.8;
+    background: #eea2bbf5;
     border-radius: 25px;
     padding: 20px;
     width: 95%;
@@ -34,8 +36,8 @@ body{
     padding: 10px;
     border-radius: 25px;
     font-size: 18px;
-    background-color: #7c7c7c2b;
-    color: white;
+    background-color: #ce8ca26b;
+    color: rgb(255, 255, 255);
     width: calc(100% - 100px);
 }
 .botao-buscar{
